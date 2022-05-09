@@ -1,3 +1,4 @@
+# coding: UTF-8
 # インストールした「flask.py」から「Flask」Classをimport
 from flask import Flask
 
